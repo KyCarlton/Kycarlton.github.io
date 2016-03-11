@@ -725,7 +725,7 @@
 	}
 
 		#main .avatar {
-			position: relative;
+			position: fixed;
 			display: block;
 			margin-bottom: 1.5em;
 		}
