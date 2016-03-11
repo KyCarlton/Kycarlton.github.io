@@ -84,8 +84,8 @@
 
 	body {
 		height: 100%;
-		background-color: #ffffff;
-		background-image: url("images/overlay.png"), -moz-linear-gradient(60deg, rgba(255, 165, 150, 0.5) 5%, rgba(0, 228, 255, 0.35)), url("http://i.istockimg.com/file_thumbview_approve/44177074/3/stock-photo-44177074-abstract-light-blue-background.jpg");
+		background-color: #58ACFA;
+		background-image:  url("http://i.istockimg.com/file_thumbview_approve/44177074/3/stock-photo-44177074-abstract-light-blue-background.jpg");
 		
 		background-repeat: repeat,			no-repeat,			no-repeat;
 		background-size: 100px 100px, cover,				cover;
