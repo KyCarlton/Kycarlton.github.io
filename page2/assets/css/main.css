@@ -745,7 +745,7 @@
 				width: calc(100% + 6em);
 				height: 1px;
 				z-index: -1;
-				background: #c8cccf;
+				background: #ff0000;
 			}
 
 		@media screen and (max-width: 480px) {
