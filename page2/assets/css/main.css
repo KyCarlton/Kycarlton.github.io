@@ -833,6 +833,8 @@
 		min-height: 100%;
 		padding: 1.5em;
 		z-index: 2;
+		background-color: black;
+
 	}
 
 		#wrapper > * {
