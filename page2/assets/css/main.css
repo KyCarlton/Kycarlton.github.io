@@ -749,7 +749,7 @@
 				z-index: -1;
 				background: #ff0000;
 				border-color: red;
-				border-width: 50px;
+				border-width: 500px;
 			}
 
 		@media screen and (max-width: 480px) {
