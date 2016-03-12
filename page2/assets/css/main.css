@@ -729,10 +729,10 @@
 			#main .avatar img {
 				display: block;
 				margin: 0 auto;
-				border-radius: 20%;
+				border-radius: 0%;
 				box-shadow: 0 0 0 1.5em #ffffff;
-				width: 260px;
-				height: 260px;
+				width: 360px;
+				height: 360px;
 
 			}
 
