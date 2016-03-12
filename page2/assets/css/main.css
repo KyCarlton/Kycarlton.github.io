@@ -307,7 +307,7 @@
 	.select-wrapper {
 		text-decoration: none;
 		display: block;
-		position: relative;
+		position: center;
 	}
 
 		.select-wrapper:before {
