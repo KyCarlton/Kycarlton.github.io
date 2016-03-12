@@ -732,7 +732,7 @@
 				border-radius: 0%;
 				box-shadow: 0 0 0 1.5em #ffffff;
 				width: 360px;
-				height: 470px;
+				height: 460px;
 
 			}
 
@@ -745,7 +745,7 @@
 				width: calc(100% + 6em);
 				height: 1px;
 				z-index: -1;
-				background: #ff0000;
+				background: #c8cccf;
 			}
 
 		@media screen and (max-width: 480px) {
