@@ -748,6 +748,7 @@
 				height: 1px;
 				z-index: -1;
 				background: #ff0000;
+				background-color: red; 
 			}
 
 		@media screen and (max-width: 480px) {
