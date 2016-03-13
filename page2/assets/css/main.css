@@ -732,7 +732,7 @@
 				display: block;
 				margin: 0 auto;
 				border-radius: 0%;
-				box-shadow: 0 0 0 1.5em #ff0000;
+				/*box-shadow: 0 0 0 1.5em #ff0000;*/
 				width: 360px;
 				height: 490px;
 
