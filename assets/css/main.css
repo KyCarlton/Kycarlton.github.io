@@ -2600,6 +2600,7 @@
 			}
 
 				.post > header .title h2 {
+					font-style: bold;
 					font-weight: 900;
 					font-size: 1.5em;
 				}
