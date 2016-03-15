@@ -184,7 +184,7 @@
 	}
 
 	.\31 2u, .\31 2u\24 {
-		 ,...............;
+		width: 100%;
 		clear: none;
 		margin-left: 0;
 	}
@@ -397,7 +397,7 @@
 		}
 
 		.\31 2u\28xlarge\29, .\31 2u\24\28xlarge\29 {
-			 ,...............;
+			width: 100%;
 			clear: none;
 			margin-left: 0;
 		}
@@ -612,7 +612,7 @@
 		}
 
 		.\31 2u\28large\29, .\31 2u\24\28large\29 {
-			 ,...............;
+			width: 100%;
 			clear: none;
 			margin-left: 0;
 		}
@@ -827,7 +827,7 @@
 		}
 
 		.\31 2u\28medium\29, .\31 2u\24\28medium\29 {
-			 ,...............;
+			width: 100%;
 			clear: none;
 			margin-left: 0;
 		}
@@ -1042,7 +1042,7 @@
 		}
 
 		.\31 2u\28small\29, .\31 2u\24\28small\29 {
-			 ,...............;
+			width: 100%;
 			clear: none;
 			margin-left: 0;
 		}
@@ -1257,7 +1257,7 @@
 		}
 
 		.\31 2u\28xsmall\29, .\31 2u\24\28xsmall\29 {
-			 ,...............;
+			width: 100%;
 			clear: none;
 			margin-left: 0;
 		}
@@ -1782,7 +1782,7 @@
 		.button.fit {
 			display: block;
 			margin: 0 0 1em 0;
-			 ,...............;
+			width: 100%;
 		}
 
 		input[type="submit"].big,
@@ -1894,7 +1894,7 @@
 		outline: 0;
 		padding: 0 1em;
 		text-decoration: none;
-		 ,...............;
+		width: 100%;
 	}
 
 		input[type="text"]:invalid,
@@ -2097,7 +2097,7 @@
 		}
 
 			.image.left img, .image.right img {
-				 ,...............;
+				width: 100%;
 			}
 
 		.image.left {
@@ -2115,21 +2115,25 @@
 		.image.fit {
 			display: block;
 			margin: 0 0 2em 0;
-			 ,...............;
+			width: 100%;
 		}
 
 			.image.fit img {
-				 ,...............;
+				width: 100%;
 			}
 
 		.image.featured {
 			display: block;
 			margin: 0 0 3em 0;
-			 ,...............;
+			width: 100%;
 		}
 
 			.image.featured img {
-				 ,...............;
+				width: 100%;
+				max-width: 400px;
+				margin-left: auto;
+				margin-right: auto;
+
 			}
 
 			@media screen and (max-width: 736px) {
@@ -2143,13 +2147,12 @@
 		.image.main {
 			display: block;
 			margin: 0 0 3em 0;
-			 ,...............;
+			width: 100%;
 		}
 
 			.image.main img {
-				 ,...............;
-			}
-			
+				width: 100%;
+
 			}
 
 /* List */
@@ -2355,7 +2358,7 @@
 						padding: 1em 0 0 0;
 						display: block;
 						text-align: center;
-						 ,...............;
+						width: 100%;
 					}
 
 						ul.actions li:first-child {
@@ -2363,7 +2366,7 @@
 						}
 
 						ul.actions li > * {
-							 ,...............;
+							width: 100%;
 							margin: 0 !important;
 						}
 
@@ -2417,7 +2420,7 @@
 				}
 
 					ul.posts article .image img {
-						 ,...............;
+						width: 100%;
 					}
 
 				ul.posts article header {
@@ -2479,7 +2482,7 @@
 
 		.mini-post .image {
 			overflow: hidden;
-			 ,...............;
+			width: 100%;
 		}
 
 			.mini-post .image img {
@@ -2487,7 +2490,7 @@
 				-webkit-transition: -webkit-transform 0.2s ease-out;
 				-ms-transition: -ms-transform 0.2s ease-out;
 				transition: transform 0.2s ease-out;
-				 ,...............;
+				width: 100%;
 			}
 
 			.mini-post .image:hover img {
@@ -2560,12 +2563,12 @@
 
 			.mini-posts {
 				display: block;
-				 ,...............;
+				width: 100%;
 			}
 
 				.mini-posts > * {
 					margin: 0 0 2em 0;
-					 ,...............;
+					width: 100%;
 				}
 
 		}
@@ -2752,7 +2755,7 @@
 						padding-top: 0;
 						padding: 0;
 						text-align: left;
-						 ,...............;
+						width: 100%;
 					}
 
 						.post > header .meta > * {
@@ -2888,7 +2891,7 @@
 
 	table {
 		margin: 0 0 2em 0;
-		 ,...............;
+		width: 100%;
 	}
 
 		table tbody tr {
@@ -2969,7 +2972,7 @@
 		line-height: 3.5em;
 		position: fixed;
 		top: 0;
-		 ,...............;
+		width: 100%;
 		z-index: 10000;
 	}
 
@@ -3164,7 +3167,7 @@
 		-ms-transition: opacity 0.5s ease;
 		transition: opacity 0.5s ease;
 		margin: 0 auto;
-		max- ,...............;
+		max-width: 100%;
 		opacity: 1;
 		padding: 4.5em;
 		width: 90em;
@@ -3206,7 +3209,7 @@
 		-ms-flex-grow: 1;
 		flex-grow: 1;
 		-ms-flex: 1;
-		 ,...............;
+		width: 100%;
 	}
 
 /* Sidebar */
@@ -3236,7 +3239,7 @@
 				margin: 3em 0 0 0;
 				min-width: 0;
 				padding: 3em 0 0 0;
-				 ,...............;
+				width: 100%;
 			}
 
 		}
@@ -3263,7 +3266,7 @@
 			left: 0;
 			position: absolute;
 			top: 0;
-			 ,...............;
+			width: 100%;
 		}
 
 		#intro .logo img {
