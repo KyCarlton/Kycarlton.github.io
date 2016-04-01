@@ -3448,7 +3448,15 @@
 
 .floatinggg{
 	float:left;
+	clear:right;
 }
 
+#move {
+	margin-left: 20px;
+	padding: 1.5em;
+}
 
-
+.blocking {
+	clear:both;
+	display: block;
+}
